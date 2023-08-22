@@ -1,2 +1,2 @@
 # Introduction_to_Software_Development_2023_fall
-Introduction to Software development
+Introduction to Software development course assignments
